@@ -1,0 +1,10 @@
+/home/charles/video_ws/install/_setup_util.py
+/home/charles/video_ws/install/env.sh
+/home/charles/video_ws/install/setup.bash
+/home/charles/video_ws/install/setup.sh
+/home/charles/video_ws/install/setup.zsh
+/home/charles/video_ws/install/.rosinstall
+/home/charles/video_ws/install/lib/pkgconfig/video_pkg.pc
+/home/charles/video_ws/install/share/video_pkg/cmake/video_pkgConfig.cmake
+/home/charles/video_ws/install/share/video_pkg/cmake/video_pkgConfig-version.cmake
+/home/charles/video_ws/install/share/video_pkg/package.xml

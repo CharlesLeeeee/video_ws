@@ -1,0 +1,8 @@
+prefix=/home/charles/video_ws/install
+
+Name: video_pkg
+Description: Description of video_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/charles/video_ws/install/lib 
+Requires: 

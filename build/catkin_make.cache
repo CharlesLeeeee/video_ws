@@ -1,0 +1,2 @@
+video_pkg
+-DCATKIN_DEVEL_PREFIX=/home/charles/video_ws/devel -DCMAKE_INSTALL_PREFIX=/home/charles/video_ws/install -G Unix Makefiles
